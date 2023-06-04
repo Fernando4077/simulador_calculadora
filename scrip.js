@@ -1,0 +1,5 @@
+alert("simulador Calculadora")
+let num1 = prompt("ingrese Primer numero")
+let oper = prompt("Ingrese Operacion")
+let num2 = prompt("ngrese segundo numero")
+alert(num1+oper+num2)
